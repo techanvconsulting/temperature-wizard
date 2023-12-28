@@ -50,4 +50,4 @@ Contributions to Temperature Wizard are welcome! If you have any ideas, improvem
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at [Alok Sharma](mailto:dillpreet.gill@techanv.com)
+If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at [Dillpreet Singh Gill](mailto:dillpreet.gill@techanv.com)
